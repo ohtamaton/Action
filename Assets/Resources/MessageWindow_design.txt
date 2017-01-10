@@ -1,0 +1,12 @@
+@message_start("ohtamaton", 0.1)
+brabrabra
+brabrara
+brabrara
+@message_end
+@name("ohtamaton")
+@message("ohtamaton", "brabrabrabrabra", 0.1)
+@select("YES", "NO")
+@wait(5)
+@showWindow
+@closeWindow
+
